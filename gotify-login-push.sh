@@ -1,5 +1,5 @@
 #!/bin/bash
-##将以下脚本保存为telegram-login-push.sh，然后放在/etc/profile.d/目录下，并添加执行权限
+# save as /etc/profile.d/telegram-login-push.sh 
 exec &> /dev/null #Hide output
 
 Gotify_URL='https://yourdoman.com'
