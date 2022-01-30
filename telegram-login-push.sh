@@ -2,8 +2,6 @@
 
 # # save as /etc/profile.d/telegram-login-push.sh 
 
-
-
 USERID=(123456789)
 KEY="987654321:SFKSKFKIKSFSFSFSFLEwflZWgc"
 
