@@ -1,4 +1,3 @@
-#!/bin/bash
 # save as /usr/local/bin/gotify-push
 # /etc/pam.d/sshd add the following line
 # session optional pam_exec.so /usr/local/bin/gotify-push
