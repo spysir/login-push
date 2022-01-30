@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
-# 功能：SSH登陆VSP成功后给你推送登陆提醒
-# 用法：将USERID和KEY改成你自己的，然后将本脚本放于/etc/profile.d/目录下并给执行权限
+# # save as /etc/profile.d/telegram-login-push.sh 
 
 
 
