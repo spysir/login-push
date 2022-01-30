@@ -1,5 +1,6 @@
 #!/bin/bash
 # save as /etc/profile.d/telegram-login-push.sh 
+
 exec &> /dev/null #Hide output
 
 Gotify_URL='https://yourdoman.com'
