@@ -1,5 +1,5 @@
 #!/bin/bash
-# save as /etc/profile.d/telegram-login-push.sh 
+# save as /etc/profile.d/gotify-login-push.sh 
 
 exec &> /dev/null #Hide output
 
