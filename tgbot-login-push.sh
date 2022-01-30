@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# save as /etc/profile.d/telegram-login-push.sh 
+# save as /etc/profile.d/tgbot-login-push.sh 
 
 USERID=(123456789)
 KEY="987654321:SFKSKFKIKSFSFSFSFLEwflZWgc"
