@@ -1,3 +1,3 @@
-# VPS SSH login push with telegram or gotify
+# VPS SSH login push with tgbot or gotify
 
 
